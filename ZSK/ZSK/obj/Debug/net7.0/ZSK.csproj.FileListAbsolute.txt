@@ -1,0 +1,15 @@
+C:\Users\Radoslaw\source\repos\ZSK\ZSK\bin\Debug\net7.0\ZSK.exe
+C:\Users\Radoslaw\source\repos\ZSK\ZSK\bin\Debug\net7.0\ZSK.deps.json
+C:\Users\Radoslaw\source\repos\ZSK\ZSK\bin\Debug\net7.0\ZSK.runtimeconfig.json
+C:\Users\Radoslaw\source\repos\ZSK\ZSK\bin\Debug\net7.0\ZSK.dll
+C:\Users\Radoslaw\source\repos\ZSK\ZSK\bin\Debug\net7.0\ZSK.pdb
+C:\Users\Radoslaw\source\repos\ZSK\ZSK\obj\Debug\net7.0\ZSK.csproj.AssemblyReference.cache
+C:\Users\Radoslaw\source\repos\ZSK\ZSK\obj\Debug\net7.0\ZSK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Radoslaw\source\repos\ZSK\ZSK\obj\Debug\net7.0\ZSK.AssemblyInfoInputs.cache
+C:\Users\Radoslaw\source\repos\ZSK\ZSK\obj\Debug\net7.0\ZSK.AssemblyInfo.cs
+C:\Users\Radoslaw\source\repos\ZSK\ZSK\obj\Debug\net7.0\ZSK.csproj.CoreCompileInputs.cache
+C:\Users\Radoslaw\source\repos\ZSK\ZSK\obj\Debug\net7.0\ZSK.dll
+C:\Users\Radoslaw\source\repos\ZSK\ZSK\obj\Debug\net7.0\refint\ZSK.dll
+C:\Users\Radoslaw\source\repos\ZSK\ZSK\obj\Debug\net7.0\ZSK.pdb
+C:\Users\Radoslaw\source\repos\ZSK\ZSK\obj\Debug\net7.0\ZSK.genruntimeconfig.cache
+C:\Users\Radoslaw\source\repos\ZSK\ZSK\obj\Debug\net7.0\ref\ZSK.dll
