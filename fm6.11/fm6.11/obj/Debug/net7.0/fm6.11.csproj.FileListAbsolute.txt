@@ -1,0 +1,5 @@
+/Users/filipmikosz/Documents/school/prTestowaniaApk/testowanie_aplikacji_4e/fm6.11/fm6.11/obj/Debug/net7.0/fm6.11.csproj.AssemblyReference.cache
+/Users/filipmikosz/Documents/school/prTestowaniaApk/testowanie_aplikacji_4e/fm6.11/fm6.11/obj/Debug/net7.0/fm6.11.GeneratedMSBuildEditorConfig.editorconfig
+/Users/filipmikosz/Documents/school/prTestowaniaApk/testowanie_aplikacji_4e/fm6.11/fm6.11/obj/Debug/net7.0/fm6.11.AssemblyInfoInputs.cache
+/Users/filipmikosz/Documents/school/prTestowaniaApk/testowanie_aplikacji_4e/fm6.11/fm6.11/obj/Debug/net7.0/fm6.11.AssemblyInfo.cs
+/Users/filipmikosz/Documents/school/prTestowaniaApk/testowanie_aplikacji_4e/fm6.11/fm6.11/obj/Debug/net7.0/fm6.11.csproj.CoreCompileInputs.cache
